@@ -24,7 +24,7 @@
 			<!--Main Menu HTML Code-->
 			<nav class="wsmenu clearfix">
 				<ul class="main-top-mail">
-					<li><a href="tel:8147593262"> +91 9845632791</a></li>
+					<li><a href="tel:9845632791"> +91 9845632791</a></li>
 					<li><a href="mailto:islamicacademy.noor@gmail.com"> qcloud202@gmail.com</a></li>
 				</ul>
 
